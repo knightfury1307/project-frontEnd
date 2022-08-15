@@ -1,0 +1,21 @@
+.part-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid #000;
+    color:#228B22;
+}
+
+.vertical{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vl{
+    border-right: 1px solid #000;
+    padding: 7px;
+}
+
+
+

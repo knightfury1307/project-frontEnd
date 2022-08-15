@@ -1,0 +1,37 @@
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(253, 245, 231);
+    
+}
+
+.section2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    height: 300px;
+    color:  #228B22;
+ 
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 8px;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+.text{
+    color: #808000;
+}
+
+
+.color{
+    color:  #228B22;
+}

@@ -1,0 +1,15 @@
+.d-block{
+    height: 500px;
+}
+
+.button2{
+    background-color: white;
+    color:  #355E3B;
+    padding: 10px 25px;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.carousel-caption{
+    top: 200px
+}

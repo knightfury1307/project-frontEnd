@@ -1,0 +1,98 @@
+.section6{
+    display: flex;
+    
+    
+}
+
+ 
+
+.subs0{
+    flex: 4;
+    
+}
+
+.dp{
+    width: 70px;
+    border: 3px solid #228B22;
+    border-radius: 50%;
+}
+.cont1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+
+.subs1{
+    flex: 4;
+    display: flex;
+    
+    justify-content: center;
+    flex-direction: column;
+    
+    padding-bottom: 0px ;
+    background-color: #c0eac0;
+    
+}
+
+.subs2{
+
+    flex: 4;
+    padding-bottom: 0px ;
+}
+
+.div {
+    flex: 4;
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.but{
+    width: 100%;
+    background-color: #7d967d;
+    align-self: center;
+    text-align: center;
+    padding: 20px 0;
+}
+.but:hover{
+    cursor: pointer;
+}
+
+.but >a{
+    color: white;
+}
+
+.in{
+    margin: 20px 0px;
+    width: 350px;
+    height: 40px;
+    padding-left: 15px;
+    border-radius: 15px;
+    border: 1px solid #228B22 ;
+}
+
+.inp{
+    margin-top: 20px;
+    width: 350px;
+    
+    padding-top: 15px;
+    padding-left: 15px;
+    border-radius: 15px;
+    border: 1px solid #228B22 ;
+}
+
+.but1{
+    margin-bottom: 0;
+    bottom: 0;
+}
+
+.child{
+    background-color: white;
+}
+.but2{
+    background-color: #228B22;
+}

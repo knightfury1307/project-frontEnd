@@ -1,0 +1,51 @@
+.subpart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.part1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.subpart{
+    color: #355E3B;
+}
+.subpart > h2{
+    font-size: 12px;
+    
+}
+.subpart:hover{
+    cursor: pointer;
+}
+.lotus{
+    color: #228B22;
+    cursor: pointer;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+    color: #808000;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.button1{
+    color: white;
+    background-color: #228B22;
+    padding: 10px 20px;
+    border-radius: 20px;
+}

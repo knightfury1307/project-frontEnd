@@ -1,0 +1,17 @@
+.section4{
+    display: flex;
+    border-bottom: 1px solid #000;
+    
+}
+
+.boz{
+     border-right: 1px solid #000;
+     padding: 15px;
+     color: #355E3B;
+}
+.boz > p{
+    color:#808000;
+}
+.tick{
+    color:#228B22;
+}
